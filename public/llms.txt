@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רכבי יוקרה למכירה בישראל במקום אחד בלבד. מבחר בוטיק של מכוניות ספורט ויוקרה נבחרות, עם שירות אישי ברמה עולמית. בקר עכשיו וחווה יוקרה אמיתית.
+
+### חוויית קונסיירז'
+https://example.com/concierge
+חווית רכישה שלא תשכח לעולם. שירות קונסיירז&#39; אישי ובלעדי לרוכשי רכב יוקרה וספורט בישראל, מהייעוץ ועד מסירת המפתח. כי אתה ראוי ליותר.
+
+### אודות
+https://example.com/about
+תומר קודיש קארס נולדה מתוך אהבה אמיתית לרכב יוקרה וספורט. גלה את הפילוסופיה, הערכים והחזון שהפכו אותנו לסוכנות הבוטיק המבוקשת ביותר בישראל.
+
+### צור קשר
+https://example.com/contact
+מחפש רכב ספורט יד שנייה או רכב יוקרה חדש? צור קשר עם מומחי תומר קודיש קארס עוד היום ותקבל ייעוץ אישי, מהיר ומקצועי. אנחנו כאן בשבילך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Tomer Kudish Cars
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Tomer Kudish Cars
+
+### Category
+https://example.com/category/:slug
+מוצרים - Tomer Kudish Cars
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
